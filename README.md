@@ -1,4 +1,4 @@
-# 🚌 Lagos Commute Pulse:Visualized 🌆
+# 🚌 Lagos Commute Pulse: Visualized 🌆
 
 A comprehensive data analysis tool that generates realistic Lagos commute data and creates engaging visualizations to understand transportation patterns, weather impacts, and commuter experiences across Nigeria's commercial hub.
 
@@ -157,3 +157,4 @@ Perfect for understanding urban mobility in rapidly growing African cities!
 ---
 
 *Built with ❤️ by MOKA! for Lagos commuters and urban data enthusiasts*
+
