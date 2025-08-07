@@ -1,0 +1,201 @@
+start,end,mode,duration_min,weather,day,mood
+Ajah,Obalende,ferry,128,rainy,Wed,😩
+Ikorodu,Ojota,bus,45,rainy,Mon,😐
+Ajah,Apapa,keke,91,rainy,Mon,😩
+Ikorodu,Ojota,car,96,rainy,Fri,😩
+Ikeja,Oshodi,bus,72,rainy,Tue,😩
+Lekki,CMS,ferry,26,cloudy,Wed,🙂
+Ajah,Festac,car,58,sunny,Mon,😐
+Ajah,Apapa,ferry,117,rainy,Thu,😩
+Ikeja,Oshodi,okada,94,rainy,Fri,😩
+Ikorodu,Obalende,car,72,sunny,Fri,😩
+Ajah,Ojota,keke,60,rainy,Tue,😐
+Yaba,Ojota,car,89,sunny,Fri,😩
+VI,Mile 2,ferry,66,rainy,Mon,😐
+Ikeja,Festac,walking,102,cloudy,Wed,😩
+Ikorodu,Mile 2,bus,79,sunny,Thu,😩
+Lekki,Mile 2,car,47,sunny,Tue,😐
+Surulere,CMS,walking,29,sunny,Wed,🙂
+Lekki,Obalende,bus,56,rainy,Tue,😐
+Lekki,CMS,walking,93,cloudy,Wed,😩
+Surulere,Obalende,walking,120,rainy,Mon,😩
+Surulere,Oshodi,okada,59,cloudy,Mon,😐
+Lekki,Oshodi,okada,65,sunny,Wed,😐
+Surulere,Mile 2,walking,45,sunny,Fri,😐
+VI,Ojota,ferry,33,cloudy,Thu,🙂
+Ajah,Ojota,ferry,38,sunny,Mon,🙂
+Surulere,Ojota,car,63,sunny,Mon,😐
+Lekki,Festac,keke,49,sunny,Wed,😐
+Ajah,Festac,ferry,86,sunny,Thu,😩
+Surulere,Obalende,okada,66,sunny,Mon,😐
+Ikeja,Obalende,bus,67,cloudy,Wed,😐
+Yaba,Oshodi,ferry,48,cloudy,Wed,😐
+Surulere,Obalende,keke,62,sunny,Wed,😐
+Lekki,Ojota,okada,43,cloudy,Wed,😐
+Yaba,Mile 2,ferry,50,cloudy,Fri,😐
+Surulere,Oshodi,car,28,cloudy,Mon,🙂
+Ikeja,Ojota,ferry,62,cloudy,Thu,😐
+Ikeja,Apapa,ferry,40,sunny,Tue,😐
+VI,Obalende,okada,79,cloudy,Thu,😩
+Ajah,Mile 2,bus,32,cloudy,Mon,🙂
+Surulere,Oshodi,bus,34,sunny,Fri,🙂
+Ikorodu,CMS,bus,69,cloudy,Thu,😐
+VI,Apapa,car,62,sunny,Mon,😐
+Ikorodu,CMS,ferry,82,sunny,Tue,😩
+Lekki,Apapa,bus,28,cloudy,Thu,🙂
+Surulere,Apapa,keke,33,cloudy,Fri,🙂
+Surulere,Ojota,ferry,48,rainy,Fri,😐
+VI,Mile 2,car,45,rainy,Mon,😐
+Ikorodu,Festac,keke,74,cloudy,Wed,😩
+Lekki,CMS,car,49,sunny,Thu,😐
+Yaba,Mile 2,okada,30,cloudy,Fri,🙂
+Surulere,CMS,okada,69,cloudy,Tue,😐
+VI,Apapa,car,60,rainy,Thu,😐
+Ajah,Oshodi,walking,38,cloudy,Thu,🙂
+Ikeja,Mile 2,okada,96,rainy,Fri,😩
+VI,CMS,okada,60,sunny,Fri,😐
+Ikeja,Ojota,okada,49,rainy,Wed,😐
+Ikorodu,Oshodi,ferry,103,rainy,Mon,😩
+Ikeja,Oshodi,okada,31,sunny,Fri,🙂
+Lekki,Ojota,walking,78,cloudy,Tue,😩
+VI,Oshodi,car,68,sunny,Fri,😐
+Ajah,Mile 2,walking,75,cloudy,Thu,😩
+Surulere,Festac,okada,68,sunny,Fri,😐
+Ikeja,Ojota,car,84,cloudy,Thu,😩
+Yaba,Oshodi,walking,91,sunny,Fri,😩
+Lekki,Obalende,bus,20,cloudy,Wed,🙂
+Ikeja,Oshodi,keke,102,rainy,Tue,😩
+Yaba,Festac,walking,64,sunny,Wed,😐
+Ajah,Obalende,bus,59,rainy,Wed,😐
+Surulere,Festac,car,80,cloudy,Wed,😩
+Lekki,Mile 2,bus,82,sunny,Tue,😩
+Ikorodu,Ojota,okada,51,cloudy,Fri,😐
+VI,Obalende,ferry,91,cloudy,Wed,😩
+Ajah,Ojota,car,28,cloudy,Mon,🙂
+Lekki,CMS,car,86,cloudy,Fri,😩
+Yaba,Oshodi,car,48,cloudy,Thu,😐
+Ajah,CMS,keke,69,sunny,Fri,😐
+VI,Obalende,bus,36,rainy,Fri,🙂
+Ajah,CMS,keke,70,rainy,Tue,😩
+Ajah,Obalende,car,54,cloudy,Fri,😐
+Ikeja,Obalende,walking,103,rainy,Tue,😩
+Surulere,Mile 2,okada,67,rainy,Thu,😐
+VI,Festac,keke,108,rainy,Wed,😩
+Surulere,Obalende,ferry,59,rainy,Tue,😐
+Ikorodu,Mile 2,ferry,72,rainy,Mon,😩
+Ikorodu,Oshodi,ferry,27,sunny,Fri,🙂
+VI,Obalende,ferry,70,cloudy,Fri,😩
+VI,CMS,okada,38,cloudy,Mon,🙂
+VI,CMS,bus,90,rainy,Fri,😩
+Surulere,CMS,car,60,sunny,Mon,😐
+Ajah,Mile 2,walking,72,rainy,Wed,😩
+Ajah,Mile 2,car,30,sunny,Tue,🙂
+Surulere,Mile 2,okada,84,rainy,Wed,😩
+Yaba,Ojota,okada,70,sunny,Fri,😩
+Ikeja,Ojota,walking,50,rainy,Mon,😐
+Surulere,Mile 2,walking,73,sunny,Wed,😩
+Ajah,Apapa,okada,73,rainy,Thu,😩
+Surulere,Obalende,ferry,102,rainy,Fri,😩
+Ikeja,Mile 2,keke,59,rainy,Fri,😐
+Ajah,Festac,ferry,72,rainy,Fri,😩
+Lekki,Apapa,car,48,sunny,Mon,😐
+VI,Festac,ferry,69,rainy,Wed,😐
+Surulere,CMS,keke,103,rainy,Tue,😩
+VI,Ojota,car,74,sunny,Thu,😩
+Ajah,Ojota,ferry,100,rainy,Wed,😩
+Ikorodu,Festac,car,43,sunny,Thu,😐
+Ikeja,CMS,okada,56,sunny,Mon,😐
+Yaba,Apapa,walking,57,sunny,Thu,😐
+Ikorodu,Obalende,bus,51,cloudy,Fri,😐
+Yaba,CMS,walking,45,sunny,Fri,😐
+Ikeja,CMS,bus,63,rainy,Mon,😐
+Yaba,Festac,keke,95,rainy,Wed,😩
+Lekki,Mile 2,bus,84,rainy,Thu,😩
+Ajah,Obalende,walking,92,sunny,Mon,😩
+Ikorodu,Mile 2,keke,46,cloudy,Wed,😐
+VI,Obalende,keke,82,sunny,Mon,😩
+Ikeja,Apapa,bus,30,sunny,Thu,🙂
+Ikorodu,Festac,car,62,rainy,Wed,😐
+Lekki,Apapa,walking,69,sunny,Thu,😐
+Lekki,Ojota,keke,87,rainy,Mon,😩
+Ikeja,Ojota,walking,79,rainy,Mon,😩
+Yaba,Apapa,keke,57,cloudy,Thu,😐
+Ikeja,Ojota,car,105,rainy,Wed,😩
+Ikeja,Apapa,walking,43,cloudy,Tue,😐
+VI,Oshodi,car,90,rainy,Fri,😩
+Ikorodu,Mile 2,keke,100,rainy,Thu,😩
+Lekki,Mile 2,walking,83,rainy,Thu,😩
+Yaba,Oshodi,car,83,cloudy,Thu,😩
+Ikorodu,Apapa,ferry,64,rainy,Fri,😐
+Lekki,Obalende,bus,42,rainy,Fri,😐
+Yaba,Oshodi,keke,73,rainy,Fri,😩
+Ikorodu,Obalende,ferry,72,rainy,Thu,😩
+Ikorodu,Mile 2,keke,101,rainy,Wed,😩
+VI,Ojota,keke,57,cloudy,Tue,😐
+Yaba,Apapa,car,63,rainy,Tue,😐
+VI,Festac,okada,64,sunny,Thu,😐
+Ikeja,Apapa,walking,108,rainy,Tue,😩
+Yaba,Ojota,car,78,rainy,Wed,😩
+Lekki,Apapa,walking,88,cloudy,Fri,😩
+Surulere,Festac,ferry,56,rainy,Wed,😐
+Surulere,Mile 2,keke,71,cloudy,Wed,😩
+Ajah,Apapa,walking,64,cloudy,Tue,😐
+Yaba,CMS,keke,28,cloudy,Wed,🙂
+Ajah,CMS,bus,36,cloudy,Fri,🙂
+Yaba,Ojota,keke,114,rainy,Thu,😩
+Ikorodu,CMS,ferry,88,cloudy,Tue,😩
+Yaba,Oshodi,okada,96,rainy,Wed,😩
+Ajah,CMS,keke,68,sunny,Mon,😐
+Ajah,Festac,car,69,cloudy,Mon,😐
+VI,Festac,keke,27,sunny,Fri,🙂
+Lekki,Apapa,okada,53,rainy,Wed,😐
+Yaba,Ojota,car,28,sunny,Mon,🙂
+Ikorodu,Mile 2,ferry,35,sunny,Tue,🙂
+Lekki,Festac,bus,91,rainy,Tue,😩
+VI,Apapa,ferry,84,cloudy,Mon,😩
+Ikeja,CMS,walking,48,sunny,Thu,😐
+Ajah,Ojota,walking,120,rainy,Thu,😩
+Ikorodu,Mile 2,keke,69,cloudy,Thu,😐
+Ikorodu,Ojota,ferry,109,rainy,Fri,😩
+Surulere,Ojota,car,37,cloudy,Thu,🙂
+Lekki,Mile 2,ferry,57,rainy,Mon,😐
+Lekki,Oshodi,keke,83,cloudy,Mon,😩
+Ikeja,Mile 2,walking,71,sunny,Mon,😩
+Lekki,Festac,keke,86,cloudy,Thu,😩
+Lekki,Mile 2,keke,38,cloudy,Mon,🙂
+Surulere,CMS,bus,80,sunny,Tue,😩
+VI,Ojota,keke,94,rainy,Tue,😩
+VI,Ojota,car,87,cloudy,Mon,😩
+Yaba,Apapa,walking,101,cloudy,Wed,😩
+VI,Apapa,okada,81,rainy,Thu,😩
+Lekki,Mile 2,okada,41,cloudy,Wed,😐
+Lekki,Mile 2,keke,66,sunny,Thu,😐
+VI,Apapa,walking,91,rainy,Wed,😩
+VI,Festac,car,86,sunny,Tue,😩
+Surulere,Ojota,bus,82,cloudy,Fri,😩
+Lekki,Ojota,bus,105,rainy,Mon,😩
+VI,Festac,bus,52,rainy,Tue,😐
+Ikorodu,Mile 2,car,73,rainy,Fri,😩
+Surulere,Mile 2,car,47,cloudy,Wed,😐
+Ajah,Festac,walking,64,cloudy,Mon,😐
+Lekki,Obalende,bus,74,rainy,Fri,😩
+VI,Ojota,bus,55,sunny,Thu,😐
+VI,Obalende,walking,67,rainy,Fri,😐
+Yaba,Festac,okada,84,sunny,Tue,😩
+Ikorodu,Oshodi,keke,61,cloudy,Thu,😐
+Ikeja,Ojota,walking,89,sunny,Wed,😩
+Ajah,Obalende,bus,75,cloudy,Wed,😩
+VI,CMS,car,52,rainy,Thu,😐
+Ajah,CMS,bus,37,sunny,Tue,🙂
+Yaba,Mile 2,ferry,66,sunny,Thu,😐
+Ikorodu,Apapa,bus,60,rainy,Thu,😐
+Ikorodu,CMS,okada,56,rainy,Tue,😐
+Ikeja,Oshodi,ferry,61,rainy,Thu,😐
+VI,Obalende,walking,91,rainy,Wed,😩
+Lekki,Ojota,keke,99,rainy,Mon,😩
+Ikorodu,Ojota,walking,62,sunny,Thu,😐
+Yaba,CMS,car,72,cloudy,Thu,😩
+Yaba,Festac,ferry,66,cloudy,Mon,😐
+Ajah,Ojota,bus,34,sunny,Mon,🙂
+Yaba,Mile 2,okada,66,rainy,Tue,😐
+Ikorodu,Festac,car,96,rainy,Wed,😩
