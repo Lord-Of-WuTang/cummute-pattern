@@ -5,7 +5,7 @@ A comprehensive data analysis tool that generates realistic Lagos commute data a
 ## 🌟 Features
 
 - **Realistic Data Generation**: Creates authentic Lagos commute scenarios with 7 start locations, 7 destinations, and 6 transport modes
-- **Weather Impact Analysis**: Simulates how Lagos weather affects commute times
+- **Weather Impact Analysis**: Simulates how Lagos' weather affects commute times
 - **Mood Tracking**: Correlates commute duration with commuter satisfaction levels
 - **Interactive Dashboard**: 6 comprehensive visualizations in a single dashboard view
 - **Statistical Insights**: Automated generation of key metrics and trends
@@ -157,4 +157,5 @@ Perfect for understanding urban mobility in rapidly growing African cities!
 ---
 
 *Built with ❤️ by MOKA! for Lagos commuters and urban data enthusiasts*
+
 
